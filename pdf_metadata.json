@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T10:23:04.910701",
-  "total_files": 62,
+  "generated_at": "2026-06-25T13:53:27.566058",
+  "total_files": 63,
   "files": {
     "AI_ML.pdf": {
       "title": "AI ML",
@@ -20,9 +20,9 @@
       "title": "AWS Basic Cheat Sheet",
       "category": "aws",
       "tags": [
+        "reference",
         "beginner",
-        "aws",
-        "reference"
+        "aws"
       ],
       "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
       "pages": 1,
@@ -30,6 +30,20 @@
       "read_time": "2 min read",
       "pdf_title": "AWS-Basic-Cheat-Sheet .png",
       "pdf_author": "Haim.Cohen",
+      "pdf_subject": ""
+    },
+    "AWS_IAM.pdf": {
+      "title": "AWS IAM",
+      "category": "aws",
+      "tags": [
+        "aws"
+      ],
+      "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
+      "pages": 10,
+      "file_size": 1852302,
+      "read_time": "20 min read",
+      "pdf_title": "IAM.md",
+      "pdf_author": "",
       "pdf_subject": ""
     },
     "Aws-1.pdf": {
@@ -50,16 +64,16 @@
       "title": "GitHub Actions Complete Guide",
       "category": "aws",
       "tags": [
-        "terraform",
+        "aws",
         "guide",
         "docker",
         "kubernetes",
-        "git",
-        "aws"
+        "terraform",
+        "git"
       ],
       "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
       "pages": 10,
-      "file_size": 10489,
+      "file_size": 10752,
       "read_time": "20 min read",
       "pdf_title": "(anonymous)",
       "pdf_author": "(anonymous)",
@@ -69,9 +83,9 @@
       "title": "GoogleCloudDeveloper",
       "category": "aws",
       "tags": [
-        "git",
         "kubernetes",
-        "aws"
+        "aws",
+        "git"
       ],
       "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
       "pages": 1,
@@ -85,9 +99,9 @@
       "title": "IQ Cheat Sheet",
       "category": "docker",
       "tags": [
-        "docker",
         "kubernetes",
-        "reference"
+        "reference",
+        "docker"
       ],
       "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
       "pages": 12,
@@ -101,9 +115,9 @@
       "title": "Jenkins Cheat Sheet Converted",
       "category": "devops",
       "tags": [
-        "devops",
+        "reference",
         "jenkins",
-        "reference"
+        "devops"
       ],
       "excerpt": "DevOps guide covering continuous integration, deployment pipelines, and infrastructure automation practices.",
       "pages": 1,
@@ -117,9 +131,9 @@
       "title": "Kubernetes Cheat Sheet",
       "category": "docker",
       "tags": [
-        "docker",
         "kubernetes",
         "linux",
+        "docker",
         "reference"
       ],
       "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
@@ -148,9 +162,9 @@
       "title": "PostgreSQL Cheat Sheet",
       "category": "database",
       "tags": [
-        "postgresql",
+        "reference",
         "database",
-        "reference"
+        "postgresql"
       ],
       "excerpt": "Database guide covering design, optimization, queries, and administration best practices.",
       "pages": 3,
@@ -206,8 +220,8 @@
       "title": "Ajax",
       "category": "javascript",
       "tags": [
-        "javascript",
-        "java"
+        "java",
+        "javascript"
       ],
       "excerpt": "JavaScript programming guide covering modern development practices, frameworks, and advanced concepts.",
       "pages": 2,
@@ -236,8 +250,8 @@
       "title": "Atlassian Git Cheatsheet",
       "category": "reference",
       "tags": [
-        "git",
-        "reference"
+        "reference",
+        "git"
       ],
       "excerpt": "Quick reference guide with essential commands, syntax, and best practices for rapid lookup.",
       "pages": 2,
@@ -271,9 +285,9 @@
       "pages": 1,
       "file_size": 133750,
       "read_time": "2 min read",
-      "pdf_title": "IndirectObject(40, 0, 4469537488)",
-      "pdf_author": "IndirectObject(42, 0, 4469537488)",
-      "pdf_subject": "IndirectObject(43, 0, 4469537488)"
+      "pdf_title": "IndirectObject(40, 0, 2359727162480)",
+      "pdf_author": "IndirectObject(42, 0, 2359727162480)",
+      "pdf_subject": "IndirectObject(43, 0, 2359727162480)"
     },
     "aws-services.pdf": {
       "title": "Aws Services",
@@ -293,8 +307,8 @@
       "title": "Cheatsheet Python Grok",
       "category": "python",
       "tags": [
-        "python",
-        "reference"
+        "reference",
+        "python"
       ],
       "excerpt": "Python programming guide covering fundamentals, libraries, frameworks, and best practices for development.",
       "pages": 1,
@@ -364,8 +378,8 @@
       "title": "Docker Tutorial",
       "category": "docker",
       "tags": [
-        "docker",
-        "guide"
+        "guide",
+        "docker"
       ],
       "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
       "pages": 109,
@@ -385,7 +399,7 @@
       "pages": 1,
       "file_size": 277251,
       "read_time": "2 min read",
-      "pdf_title": "IndirectObject(114, 0, 4469538640)",
+      "pdf_title": "IndirectObject(114, 0, 2359723619472)",
       "pdf_author": "",
       "pdf_subject": ""
     },
@@ -393,8 +407,8 @@
       "title": "Docker By Jrebel",
       "category": "docker",
       "tags": [
-        "docker",
-        "java"
+        "java",
+        "docker"
       ],
       "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
       "pages": 1,
@@ -436,8 +450,8 @@
       "title": "Git By Git Tower",
       "category": "machine-learning",
       "tags": [
-        "machine-learning",
-        "git"
+        "git",
+        "machine-learning"
       ],
       "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
       "pages": 2,
@@ -451,8 +465,8 @@
       "title": "Git By Github",
       "category": "github-actions",
       "tags": [
-        "git",
-        "github-actions"
+        "github-actions",
+        "git"
       ],
       "excerpt": "Complete guide to GitHub Actions for CI/CD automation. Learn workflows, deployment strategies, and DevOps best practices.",
       "pages": 2,
@@ -466,8 +480,8 @@
       "title": "Github",
       "category": "github-actions",
       "tags": [
-        "git",
-        "github-actions"
+        "github-actions",
+        "git"
       ],
       "excerpt": "Complete guide to GitHub Actions for CI/CD automation. Learn workflows, deployment strategies, and DevOps best practices.",
       "pages": 1,
@@ -481,10 +495,10 @@
       "title": "Go Golang",
       "category": "github-actions",
       "tags": [
-        "git",
         "github-actions",
         "java",
-        "golang"
+        "golang",
+        "git"
       ],
       "excerpt": "Complete guide to GitHub Actions for CI/CD automation. Learn workflows, deployment strategies, and DevOps best practices.",
       "pages": 6,
@@ -568,8 +582,8 @@
       "title": "Linux Networking Tool",
       "category": "machine-learning",
       "tags": [
-        "machine-learning",
-        "linux"
+        "linux",
+        "machine-learning"
       ],
       "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
       "pages": 1,
@@ -611,16 +625,16 @@
       "title": "Nginx",
       "category": "machine-learning",
       "tags": [
-        "machine-learning",
-        "nginx"
+        "nginx",
+        "machine-learning"
       ],
       "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
       "pages": 1,
       "file_size": 733676,
       "read_time": "2 min read",
-      "pdf_title": "IndirectObject(117, 0, 4471359248)",
-      "pdf_author": "IndirectObject(119, 0, 4471359248)",
-      "pdf_subject": "IndirectObject(120, 0, 4471359248)"
+      "pdf_title": "IndirectObject(117, 0, 2359727162480)",
+      "pdf_author": "IndirectObject(119, 0, 2359727162480)",
+      "pdf_subject": "IndirectObject(120, 0, 2359727162480)"
     },
     "ngrep.pdf": {
       "title": "Ngrep",

@@ -31,6 +31,7 @@ class BlogApp {
             const knownPDFs = [
                 'AI_ML.pdf',
                 'AWS-Basic-Cheat-Sheet.pdf',
+                'AWS_IAM.pdf',
                 'Aws-1.pdf',
                 'GitHub_Actions_Complete_Guide.pdf',
                 'GoogleCloudDeveloper.pdf',
