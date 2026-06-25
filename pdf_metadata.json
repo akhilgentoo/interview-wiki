@@ -1,0 +1,910 @@
+{
+  "generated_at": "2026-06-25T10:18:20.100230",
+  "total_files": 62,
+  "files": {
+    "AI_ML.pdf": {
+      "title": "AI ML",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 25,
+      "file_size": 47569035,
+      "read_time": "50 min read",
+      "pdf_title": "cheatsheet",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "AWS-Basic-Cheat-Sheet.pdf": {
+      "title": "AWS Basic Cheat Sheet",
+      "category": "aws",
+      "tags": [
+        "beginner",
+        "aws",
+        "reference"
+      ],
+      "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
+      "pages": 1,
+      "file_size": 366811,
+      "read_time": "2 min read",
+      "pdf_title": "AWS-Basic-Cheat-Sheet .png",
+      "pdf_author": "Haim.Cohen",
+      "pdf_subject": ""
+    },
+    "Aws-1.pdf": {
+      "title": "Aws 1",
+      "category": "aws",
+      "tags": [
+        "aws"
+      ],
+      "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
+      "pages": 299,
+      "file_size": 4353549,
+      "read_time": "598 min read",
+      "pdf_title": "AWS Solutions Architect Associate (SAA-C03) Handbook",
+      "pdf_author": "K S",
+      "pdf_subject": ""
+    },
+    "GitHub_Actions_Complete_Guide.pdf": {
+      "title": "GitHub Actions Complete Guide",
+      "category": "aws",
+      "tags": [
+        "guide",
+        "terraform",
+        "aws",
+        "kubernetes",
+        "git",
+        "docker"
+      ],
+      "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
+      "pages": 10,
+      "file_size": 10489,
+      "read_time": "20 min read",
+      "pdf_title": "(anonymous)",
+      "pdf_author": "(anonymous)",
+      "pdf_subject": "(unspecified)"
+    },
+    "GoogleCloudDeveloper.pdf": {
+      "title": "GoogleCloudDeveloper",
+      "category": "aws",
+      "tags": [
+        "kubernetes",
+        "git",
+        "aws"
+      ],
+      "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
+      "pages": 1,
+      "file_size": 83825,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "IQ cheat sheet.pdf": {
+      "title": "IQ Cheat Sheet",
+      "category": "docker",
+      "tags": [
+        "docker",
+        "kubernetes",
+        "reference"
+      ],
+      "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
+      "pages": 12,
+      "file_size": 201834,
+      "read_time": "24 min read",
+      "pdf_title": "",
+      "pdf_author": "Rameshwara Reddy Veerannagari",
+      "pdf_subject": ""
+    },
+    "Jenkins-Cheat-Sheet-converted.pdf": {
+      "title": "Jenkins Cheat Sheet Converted",
+      "category": "devops",
+      "tags": [
+        "jenkins",
+        "devops",
+        "reference"
+      ],
+      "excerpt": "DevOps guide covering continuous integration, deployment pipelines, and infrastructure automation practices.",
+      "pages": 1,
+      "file_size": 817764,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "Kubernetes-Cheat-Sheet.pdf": {
+      "title": "Kubernetes Cheat Sheet",
+      "category": "docker",
+      "tags": [
+        "docker",
+        "kubernetes",
+        "linux",
+        "reference"
+      ],
+      "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
+      "pages": 2,
+      "file_size": 178613,
+      "read_time": "4 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "Nmap-Cheat-Sheet.pdf": {
+      "title": "Nmap Cheat Sheet",
+      "category": "reference",
+      "tags": [
+        "reference"
+      ],
+      "excerpt": "Quick reference guide with essential commands, syntax, and best practices for rapid lookup.",
+      "pages": 1,
+      "file_size": 1191902,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "PostgreSQL-Cheat-Sheet.pdf": {
+      "title": "PostgreSQL Cheat Sheet",
+      "category": "database",
+      "tags": [
+        "postgresql",
+        "database",
+        "reference"
+      ],
+      "excerpt": "Database guide covering design, optimization, queries, and administration best practices.",
+      "pages": 3,
+      "file_size": 349756,
+      "read_time": "6 min read",
+      "pdf_title": "PowerPoint Presentation",
+      "pdf_author": "Duy Pham",
+      "pdf_subject": ""
+    },
+    "Powershell.pdf": {
+      "title": "Powershell",
+      "category": "linux",
+      "tags": [
+        "linux"
+      ],
+      "excerpt": "Powershell - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 55500,
+      "read_time": "2 min read",
+      "pdf_title": "Print",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "System_Design_Blueprint.pdf": {
+      "title": "System Design Blueprint",
+      "category": "web-development",
+      "tags": [
+        "web-development"
+      ],
+      "excerpt": "System Design Blueprint - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 1774479,
+      "read_time": "2 min read",
+      "pdf_title": "1_QSFihi7zXbR5X915MDmKyQ.webp",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "Terraform.pdf": {
+      "title": "Terraform",
+      "category": "terraform",
+      "tags": [
+        "terraform"
+      ],
+      "excerpt": "Infrastructure as Code guide using Terraform. Learn to manage cloud infrastructure, modules, and automation best practices.",
+      "pages": 137,
+      "file_size": 933248,
+      "read_time": "274 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "ajax.pdf": {
+      "title": "Ajax",
+      "category": "javascript",
+      "tags": [
+        "javascript",
+        "java"
+      ],
+      "excerpt": "JavaScript programming guide covering modern development practices, frameworks, and advanced concepts.",
+      "pages": 2,
+      "file_size": 49777,
+      "read_time": "4 min read",
+      "pdf_title": "AJAX Cheat Sheet by binca - Cheatography.com",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "ansible.pdf": {
+      "title": "Ansible",
+      "category": "devops",
+      "tags": [
+        "ansible",
+        "devops"
+      ],
+      "excerpt": "DevOps guide covering continuous integration, deployment pipelines, and infrastructure automation practices.",
+      "pages": 1,
+      "file_size": 253540,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "atlassian-git-cheatsheet.pdf": {
+      "title": "Atlassian Git Cheatsheet",
+      "category": "reference",
+      "tags": [
+        "git",
+        "reference"
+      ],
+      "excerpt": "Quick reference guide with essential commands, syntax, and best practices for rapid lookup.",
+      "pages": 2,
+      "file_size": 104846,
+      "read_time": "4 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "awk.pdf": {
+      "title": "Awk",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Awk - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 228753,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "aws-cost.pdf": {
+      "title": "Aws Cost",
+      "category": "aws",
+      "tags": [
+        "aws"
+      ],
+      "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
+      "pages": 1,
+      "file_size": 133750,
+      "read_time": "2 min read",
+      "pdf_title": "IndirectObject(40, 0, 4435786448)",
+      "pdf_author": "IndirectObject(42, 0, 4435786448)",
+      "pdf_subject": "IndirectObject(43, 0, 4435786448)"
+    },
+    "aws-services.pdf": {
+      "title": "Aws Services",
+      "category": "aws",
+      "tags": [
+        "aws"
+      ],
+      "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
+      "pages": 3,
+      "file_size": 69833,
+      "read_time": "6 min read",
+      "pdf_title": "AWS Services by nire0510 - Cheatography.com",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "cheatsheet-python-grok.pdf": {
+      "title": "Cheatsheet Python Grok",
+      "category": "python",
+      "tags": [
+        "python",
+        "reference"
+      ],
+      "excerpt": "Python programming guide covering fundamentals, libraries, frameworks, and best practices for development.",
+      "pages": 1,
+      "file_size": 127788,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "cicd-framework_by_densify.pdf": {
+      "title": "Cicd Framework By Densify",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 4477795,
+      "read_time": "2 min read",
+      "pdf_title": "continuous-optimization-continuous-integration-framework-poster-updates",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "cron.pdf": {
+      "title": "Cron",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Cron - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 66112,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "curl.pdf": {
+      "title": "Curl",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 158514,
+      "read_time": "2 min read",
+      "pdf_title": "curl.jpeg (1146×742)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "docker-security.pdf": {
+      "title": "Docker Security",
+      "category": "docker",
+      "tags": [
+        "docker"
+      ],
+      "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
+      "pages": 1,
+      "file_size": 147984,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "docker-tutorial.pdf": {
+      "title": "Docker Tutorial",
+      "category": "docker",
+      "tags": [
+        "docker",
+        "guide"
+      ],
+      "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
+      "pages": 109,
+      "file_size": 3163100,
+      "read_time": "218 min read",
+      "pdf_title": "Docker Tutorial (handout) ",
+      "pdf_author": "Anthony Baire",
+      "pdf_subject": "docker"
+    },
+    "docker.pdf": {
+      "title": "Docker",
+      "category": "docker",
+      "tags": [
+        "docker"
+      ],
+      "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
+      "pages": 1,
+      "file_size": 277251,
+      "read_time": "2 min read",
+      "pdf_title": "IndirectObject(114, 0, 4435787600)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "docker_by_jrebel.pdf": {
+      "title": "Docker By Jrebel",
+      "category": "docker",
+      "tags": [
+        "docker",
+        "java"
+      ],
+      "excerpt": "Complete Docker guide covering containerization, deployment, and best practices. Learn container orchestration and DevOps workflows.",
+      "pages": 1,
+      "file_size": 549042,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "ethtool.pdf": {
+      "title": "Ethtool",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 2,
+      "file_size": 215204,
+      "read_time": "4 min read",
+      "pdf_title": "ethtool.jpeg (1308×882)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "find.pdf": {
+      "title": "Find",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Find - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 240792,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "git_by_git-tower.pdf": {
+      "title": "Git By Git Tower",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning",
+        "git"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 2,
+      "file_size": 781719,
+      "read_time": "4 min read",
+      "pdf_title": "Tower_Cheatsheet_grey.indd",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "git_by_github.pdf": {
+      "title": "Git By Github",
+      "category": "github-actions",
+      "tags": [
+        "github-actions",
+        "git"
+      ],
+      "excerpt": "Complete guide to GitHub Actions for CI/CD automation. Learn workflows, deployment strategies, and DevOps best practices.",
+      "pages": 2,
+      "file_size": 361227,
+      "read_time": "4 min read",
+      "pdf_title": "GitCheatSheet_issue#2366_102019-V5",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "github.pdf": {
+      "title": "Github",
+      "category": "github-actions",
+      "tags": [
+        "github-actions",
+        "git"
+      ],
+      "excerpt": "Complete guide to GitHub Actions for CI/CD automation. Learn workflows, deployment strategies, and DevOps best practices.",
+      "pages": 1,
+      "file_size": 530794,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "go_golang.pdf": {
+      "title": "Go Golang",
+      "category": "github-actions",
+      "tags": [
+        "github-actions",
+        "golang",
+        "git",
+        "java"
+      ],
+      "excerpt": "Complete guide to GitHub Actions for CI/CD automation. Learn workflows, deployment strategies, and DevOps best practices.",
+      "pages": 6,
+      "file_size": 86666,
+      "read_time": "12 min read",
+      "pdf_title": "Golang Cheat Sheet",
+      "pdf_author": "",
+      "pdf_subject": "Golang (www.golang.org) Reference Card"
+    },
+    "grep.pdf": {
+      "title": "Grep",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 226955,
+      "read_time": "2 min read",
+      "pdf_title": "1*ZkpszLnLQFRFp_cVO_Ldmw.jpeg (1200×756)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "kubectl.pdf": {
+      "title": "Kubectl",
+      "category": "kubernetes",
+      "tags": [
+        "kubernetes"
+      ],
+      "excerpt": "Kubernetes orchestration guide covering pods, services, deployments, and cluster management. Essential for container orchestration.",
+      "pages": 1,
+      "file_size": 2309213,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "linux-bash-terminal.pdf": {
+      "title": "Linux Bash Terminal",
+      "category": "linux",
+      "tags": [
+        "linux"
+      ],
+      "excerpt": "Linux Bash Terminal - A comprehensive PDF document with 2 pages of technical content and reference materials.",
+      "pages": 2,
+      "file_size": 97371,
+      "read_time": "4 min read",
+      "pdf_title": "",
+      "pdf_author": "Tina Sieber",
+      "pdf_subject": ""
+    },
+    "linux-bash.pdf": {
+      "title": "Linux Bash",
+      "category": "linux",
+      "tags": [
+        "linux"
+      ],
+      "excerpt": "Linux Bash - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 678099,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "linux-networing-tools.pdf": {
+      "title": "Linux Networing Tools",
+      "category": "linux",
+      "tags": [
+        "linux"
+      ],
+      "excerpt": "Linux Networing Tools - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 562701,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "linux-networking-tool.pdf": {
+      "title": "Linux Networking Tool",
+      "category": "machine-learning",
+      "tags": [
+        "linux",
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 2878600,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "linux_commands.pdf": {
+      "title": "Linux Commands",
+      "category": "linux",
+      "tags": [
+        "linux"
+      ],
+      "excerpt": "Linux Commands - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 186728,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "netcat.pdf": {
+      "title": "Netcat",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 159033,
+      "read_time": "2 min read",
+      "pdf_title": "netcat.jpeg (1166×760)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "nginx.pdf": {
+      "title": "Nginx",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning",
+        "nginx"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 733676,
+      "read_time": "2 min read",
+      "pdf_title": "IndirectObject(117, 0, 4437608208)",
+      "pdf_author": "IndirectObject(119, 0, 4437608208)",
+      "pdf_subject": "IndirectObject(120, 0, 4437608208)"
+    },
+    "ngrep.pdf": {
+      "title": "Ngrep",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 221073,
+      "read_time": "2 min read",
+      "pdf_title": "ngrep.png (2544×1624)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "nmap.pdf": {
+      "title": "Nmap",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 2,
+      "file_size": 169670,
+      "read_time": "4 min read",
+      "pdf_title": "nmap.jpeg (1146×778)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "openssl.pdf": {
+      "title": "Openssl",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 250333,
+      "read_time": "2 min read",
+      "pdf_title": "openssl.jpeg (1640×1072)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "ps.pdf": {
+      "title": "Ps",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Ps - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 242860,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "puppet.pdf": {
+      "title": "Puppet",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Puppet - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 225297,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "python-regular-expression-regex.pdf": {
+      "title": "Python Regular Expression Regex",
+      "category": "python",
+      "tags": [
+        "python"
+      ],
+      "excerpt": "Python programming guide covering fundamentals, libraries, frameworks, and best practices for development.",
+      "pages": 3,
+      "file_size": 76682,
+      "read_time": "6 min read",
+      "pdf_title": "python regular expression (regex) Cheat Sheet by mutanclan - Cheatography.com",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "python_beginners.pdf": {
+      "title": "Python Beginners",
+      "category": "python",
+      "tags": [
+        "beginner",
+        "python"
+      ],
+      "excerpt": "Python programming guide covering fundamentals, libraries, frameworks, and best practices for development.",
+      "pages": 26,
+      "file_size": 1785862,
+      "read_time": "52 min read",
+      "pdf_title": "",
+      "pdf_author": "Eric Matthes",
+      "pdf_subject": ""
+    },
+    "redis.pdf": {
+      "title": "Redis",
+      "category": "reference",
+      "tags": [
+        "redis",
+        "reference"
+      ],
+      "excerpt": "Quick reference guide with essential commands, syntax, and best practices for rapid lookup.",
+      "pages": 2,
+      "file_size": 73647,
+      "read_time": "4 min read",
+      "pdf_title": "Redis Cheat Sheet by tasjaevan - Cheatography.com",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "regex.pdf": {
+      "title": "Regex",
+      "category": "reference",
+      "tags": [
+        "java",
+        "reference"
+      ],
+      "excerpt": "Quick reference guide with essential commands, syntax, and best practices for rapid lookup.",
+      "pages": 1,
+      "file_size": 194922,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "rsync.pdf": {
+      "title": "Rsync",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Rsync - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 48250,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "sed.pdf": {
+      "title": "Sed",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Sed - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 163154,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "slack.pdf": {
+      "title": "Slack",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 2,
+      "file_size": 2659985,
+      "read_time": "4 min read",
+      "pdf_title": "slack_cheatsheet_newlogo",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "sort_uniq.pdf": {
+      "title": "Sort Uniq",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Sort Uniq - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 200962,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "ssh.pdf": {
+      "title": "Ssh",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 183230,
+      "read_time": "2 min read",
+      "pdf_title": "ssh.jpeg (1144×744)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "tar.pdf": {
+      "title": "Tar",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Tar - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 162744,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "terraform-cheatsheet1-.pdf": {
+      "title": "Terraform Cheatsheet1",
+      "category": "terraform",
+      "tags": [
+        "terraform",
+        "reference"
+      ],
+      "excerpt": "Infrastructure as Code guide using Terraform. Learn to manage cloud infrastructure, modules, and automation best practices.",
+      "pages": 1,
+      "file_size": 841891,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "top.pdf": {
+      "title": "Top",
+      "category": "general",
+      "tags": [
+        "general"
+      ],
+      "excerpt": "Top - A comprehensive PDF document with 1 pages of technical content and reference materials.",
+      "pages": 1,
+      "file_size": 238327,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "vim-cheat-sheet.pdf": {
+      "title": "Vim Cheat Sheet",
+      "category": "reference",
+      "tags": [
+        "reference"
+      ],
+      "excerpt": "Quick reference guide with essential commands, syntax, and best practices for rapid lookup.",
+      "pages": 1,
+      "file_size": 340398,
+      "read_time": "2 min read",
+      "pdf_title": "",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "wireshark.pdf": {
+      "title": "Wireshark",
+      "category": "reference",
+      "tags": [
+        "reference"
+      ],
+      "excerpt": "Quick reference guide with essential commands, syntax, and best practices for rapid lookup.",
+      "pages": 2,
+      "file_size": 377095,
+      "read_time": "4 min read",
+      "pdf_title": "Wireshark-Cheat-Sheet 2",
+      "pdf_author": "",
+      "pdf_subject": ""
+    },
+    "xargs.pdf": {
+      "title": "Xargs",
+      "category": "machine-learning",
+      "tags": [
+        "machine-learning"
+      ],
+      "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
+      "pages": 1,
+      "file_size": 163981,
+      "read_time": "2 min read",
+      "pdf_title": "xargs.jpg (1200×757)",
+      "pdf_author": "",
+      "pdf_subject": ""
+    }
+  }
+}

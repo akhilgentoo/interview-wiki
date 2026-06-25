@@ -1,6 +1,6 @@
 # Interview Wiki - PDF-Powered Blog UI
 
-A responsive, modern blog interface that automatically converts PDF documents into readable web articles. Built with vanilla JavaScript, HTML, CSS, and PDF.js. Perfect for documentation, technical resources, and content management.
+A responsive, modern blog interface that automatically converts PDF documents into readable web articles. Built with vanilla JavaScript, HTML, CSS, and PDF.js with intelligent Python-based PDF sync automation. Perfect for documentation, technical resources, and content management.
 
 ## Features
 
@@ -10,12 +10,14 @@ A responsive, modern blog interface that automatically converts PDF documents in
 - Fully responsive design (mobile-first approach)
 - Smooth animations and transitions
 
-### � **PDF Processing**
+### 📄 **PDF Processing**
 - Automatic PDF text extraction using PDF.js
 - Smart content formatting and section detection
-- Automatic category assignment based on filename
+- **Python-based intelligent sync automation**
+- Automatic category assignment based on filename and content
 - Dynamic tag generation from content analysis
 - Real-time PDF refresh functionality
+- **One-command PDF sync** - no manual code updates needed
 
 ### � **Advanced Search & Filtering**
 - Real-time search across PDF titles, content, and tags
@@ -43,6 +45,7 @@ A responsive, modern blog interface that automatically converts PDF documents in
 
 ## Quick Start
 
+### Option 1: Manual Setup
 1. **Clone or download** the project files
 2. **Add PDF files** to the `pdfs/` directory
 3. **Open** `index.html` in your web browser
@@ -55,38 +58,119 @@ python -m http.server 8000
 npx serve .
 ```
 
+### Option 2: Automated Setup (Recommended)
+1. **Install Python dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Add PDF files** to the `pdfs/` directory
+
+3. **Run the sync tool**:
+   ```bash
+   python sync_pdfs.py
+   ```
+
+4. **Start local server**:
+   ```bash
+   python -m http.server 8000
+   ```
+
+5. **Open** `http://localhost:8000` in your browser
+
+## 🐍 Python PDF Sync Tool
+
+The included Python script automatically syncs your PDF files with the web application:
+
+### ✨ **What It Does**
+- **Scans** the `pdfs/` directory for all PDF files
+- **Extracts metadata** (pages, title, author, content preview)
+- **Smart categorization** based on filename and content analysis
+- **Generates professional excerpts** and relevant tags
+- **Updates `app.js`** automatically with current PDF list
+- **Creates metadata file** with all PDF information
+
+### 🚀 **Usage**
+```bash
+# Basic sync (updates everything)
+python sync_pdfs.py
+
+# Preview changes without modifying files
+python sync_pdfs.py --dry-run
+
+# Specify different project directory
+python sync_pdfs.py --dir /path/to/project
+```
+
+### 🎯 **Benefits**
+- ⚡ **No manual code editing** required
+- 🧠 **Intelligent categorization** (20+ categories)
+- 🏷️ **Auto-generated tags** and excerpts
+- 🔄 **Consistent workflow** for adding PDFs
+- 📊 **Detailed metadata tracking**
+
+### 📋 **Workflow**
+1. Add PDF to `pdfs/` folder
+2. Run `python sync_pdfs.py`
+3. Review auto-generated changes
+4. Test locally and deploy
+
+**See `PDF_SYNC_GUIDE.md` for detailed documentation.**
+
 ## File Structure
 
 ```
 interview-wiki/
-├── index.html          # Main HTML file
-├── styles.css          # All CSS styles and themes
-├── app.js             # Main JavaScript application
-├── README.md          # This file
-└── pdfs/              # Sample PDF resources
+├── index.html              # Main HTML file
+├── styles.css              # All CSS styles and themes
+├── app.js                  # Main JavaScript application
+├── sync_pdfs.py           # Python PDF sync automation tool
+├── requirements.txt        # Python dependencies
+├── pdf_metadata.json      # Generated PDF metadata (auto-created)
+├── README.md              # This file
+├── PDF_SYNC_GUIDE.md      # Detailed Python sync tool guide
+├── DEPLOYMENT.md          # GitHub Pages deployment guide
+├── .github/
+│   └── workflows/
+│       └── deploy.yml     # GitHub Actions deployment
+└── pdfs/                  # Your PDF resources
     ├── Aws-1.pdf
     ├── GitHub_Actions_Complete_Guide.pdf
     ├── IQ cheat sheet.pdf
     ├── Terraform.pdf
-    └── macOS User Setup Guide v6.0.pdf
+    └── docker-tutorial.pdf
 ```
 
 ## How It Works
 
-### Automatic PDF Processing
+### Automated PDF Processing (Recommended)
+1. **Place PDF files** in the `pdfs/` directory
+2. **Run the sync tool**: `python sync_pdfs.py`
+3. **Python script analyzes** PDFs and updates code automatically
+4. **Smart categorization** based on filename and content analysis
+5. **Professional excerpts** and tags generated automatically
+6. **Code updated** without manual intervention
+
+### Manual PDF Processing (Alternative)
 1. **Place PDF files** in the `pdfs/` directory
 2. **Refresh the page** or click the refresh button
 3. **PDF.js extracts text** from your documents
-4. **Smart categorization** based on filename patterns
+4. **Basic categorization** based on filename patterns
 5. **Dynamic tag generation** from content analysis
 6. **Beautiful formatting** with sections and paragraphs
 
-### Adding New PDFs
-Simply add any PDF file to the `pdfs/` directory and click the refresh button. The system will:
-- Extract text content automatically
-- Generate appropriate categories and tags
-- Create a readable web version
-- Make it searchable and filterable
+### Adding New PDFs (Automated Workflow)
+1. **Add PDF** to the `pdfs/` directory
+2. **Run sync tool**: `python sync_pdfs.py`
+3. **Review changes** in `app.js` and `pdf_metadata.json`
+4. **Test locally** and deploy
+
+The automated system will:
+- **Extract comprehensive metadata** (pages, title, author, content)
+- **Intelligently categorize** based on 20+ categories
+- **Generate professional excerpts** tailored to content type
+- **Create relevant tags** from content analysis
+- **Update code automatically** - no manual editing needed
 
 ### Supported PDF Types
 - Technical documentation
