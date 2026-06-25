@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T10:18:20.100230",
+  "generated_at": "2026-06-25T10:23:04.910701",
   "total_files": 62,
   "files": {
     "AI_ML.pdf": {
@@ -50,12 +50,12 @@
       "title": "GitHub Actions Complete Guide",
       "category": "aws",
       "tags": [
-        "guide",
         "terraform",
-        "aws",
+        "guide",
+        "docker",
         "kubernetes",
         "git",
-        "docker"
+        "aws"
       ],
       "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
       "pages": 10,
@@ -69,8 +69,8 @@
       "title": "GoogleCloudDeveloper",
       "category": "aws",
       "tags": [
-        "kubernetes",
         "git",
+        "kubernetes",
         "aws"
       ],
       "excerpt": "Comprehensive AWS guide covering cloud services, architecture, and best practices. Essential resource for AWS certification and solutions architecture.",
@@ -101,8 +101,8 @@
       "title": "Jenkins Cheat Sheet Converted",
       "category": "devops",
       "tags": [
-        "jenkins",
         "devops",
+        "jenkins",
         "reference"
       ],
       "excerpt": "DevOps guide covering continuous integration, deployment pipelines, and infrastructure automation practices.",
@@ -271,9 +271,9 @@
       "pages": 1,
       "file_size": 133750,
       "read_time": "2 min read",
-      "pdf_title": "IndirectObject(40, 0, 4435786448)",
-      "pdf_author": "IndirectObject(42, 0, 4435786448)",
-      "pdf_subject": "IndirectObject(43, 0, 4435786448)"
+      "pdf_title": "IndirectObject(40, 0, 4469537488)",
+      "pdf_author": "IndirectObject(42, 0, 4469537488)",
+      "pdf_subject": "IndirectObject(43, 0, 4469537488)"
     },
     "aws-services.pdf": {
       "title": "Aws Services",
@@ -385,7 +385,7 @@
       "pages": 1,
       "file_size": 277251,
       "read_time": "2 min read",
-      "pdf_title": "IndirectObject(114, 0, 4435787600)",
+      "pdf_title": "IndirectObject(114, 0, 4469538640)",
       "pdf_author": "",
       "pdf_subject": ""
     },
@@ -451,8 +451,8 @@
       "title": "Git By Github",
       "category": "github-actions",
       "tags": [
-        "github-actions",
-        "git"
+        "git",
+        "github-actions"
       ],
       "excerpt": "Complete guide to GitHub Actions for CI/CD automation. Learn workflows, deployment strategies, and DevOps best practices.",
       "pages": 2,
@@ -466,8 +466,8 @@
       "title": "Github",
       "category": "github-actions",
       "tags": [
-        "github-actions",
-        "git"
+        "git",
+        "github-actions"
       ],
       "excerpt": "Complete guide to GitHub Actions for CI/CD automation. Learn workflows, deployment strategies, and DevOps best practices.",
       "pages": 1,
@@ -481,10 +481,10 @@
       "title": "Go Golang",
       "category": "github-actions",
       "tags": [
-        "github-actions",
-        "golang",
         "git",
-        "java"
+        "github-actions",
+        "java",
+        "golang"
       ],
       "excerpt": "Complete guide to GitHub Actions for CI/CD automation. Learn workflows, deployment strategies, and DevOps best practices.",
       "pages": 6,
@@ -568,8 +568,8 @@
       "title": "Linux Networking Tool",
       "category": "machine-learning",
       "tags": [
-        "linux",
-        "machine-learning"
+        "machine-learning",
+        "linux"
       ],
       "excerpt": "Machine Learning guide covering algorithms, frameworks, and practical implementation strategies.",
       "pages": 1,
@@ -618,9 +618,9 @@
       "pages": 1,
       "file_size": 733676,
       "read_time": "2 min read",
-      "pdf_title": "IndirectObject(117, 0, 4437608208)",
-      "pdf_author": "IndirectObject(119, 0, 4437608208)",
-      "pdf_subject": "IndirectObject(120, 0, 4437608208)"
+      "pdf_title": "IndirectObject(117, 0, 4471359248)",
+      "pdf_author": "IndirectObject(119, 0, 4471359248)",
+      "pdf_subject": "IndirectObject(120, 0, 4471359248)"
     },
     "ngrep.pdf": {
       "title": "Ngrep",
@@ -710,8 +710,8 @@
       "title": "Python Beginners",
       "category": "python",
       "tags": [
-        "beginner",
-        "python"
+        "python",
+        "beginner"
       ],
       "excerpt": "Python programming guide covering fundamentals, libraries, frameworks, and best practices for development.",
       "pages": 26,
@@ -740,8 +740,8 @@
       "title": "Regex",
       "category": "reference",
       "tags": [
-        "java",
-        "reference"
+        "reference",
+        "java"
       ],
       "excerpt": "Quick reference guide with essential commands, syntax, and best practices for rapid lookup.",
       "pages": 1,
@@ -839,8 +839,8 @@
       "title": "Terraform Cheatsheet1",
       "category": "terraform",
       "tags": [
-        "terraform",
-        "reference"
+        "reference",
+        "terraform"
       ],
       "excerpt": "Infrastructure as Code guide using Terraform. Learn to manage cloud infrastructure, modules, and automation best practices.",
       "pages": 1,
